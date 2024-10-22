@@ -6,5 +6,5 @@ This Repo is being established July 26, 2024 as part of the Kickstarter applicat
 Please refer to the original REPO for Frontier Registry.  
 We will be adding to this REPO once we get the go-ahead to start building on Soroban. 
 
-IN the meantime, please have a look at our MVP https://frontier-dapp.netlify.app
+IN the meantime, please have a look at our MVP https://frontier-registry-demo.netlify.app/
 We are always open to feedback. 
